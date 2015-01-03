@@ -1,0 +1,2 @@
+-- これはやらないこと！
+DELETE FROM items;
