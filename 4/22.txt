@@ -1,0 +1,5 @@
+.htaccess
+
+php_value display_errors 1
+php_value error_reporting 32767
+
